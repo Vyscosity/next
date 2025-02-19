@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\lib",
+    "\\app\\ui",
+    "\\app\\ui\\customers",
+    "\\app\\ui\\dashboard",
+    "\\app\\ui\\invoices",
+    "\\public"
+  ],
+  "SelectedNode": "\\app\\page.tsx",
+  "PreviewInSolutionExplorer": false
+}
